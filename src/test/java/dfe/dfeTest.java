@@ -7,11 +7,11 @@ import static org.junit.Assert.*;
 import org.openqa.selenium.*;
 
 public class dfeTest extends TestBaseQA {
-    String selfURL = "business-rates-property-linking";
+    private String selfURL = "business-rates-property-linking";
     private boolean acceptNextAlert = true;
     private StringBuffer verificationErrors = new StringBuffer();
 
-//chggwrgrrgegegerg
+//this no longer contains an error
     @Test
     public void QAReg() throws Exception {
         driver.get(baseUrl + selfURL);
