@@ -11,7 +11,7 @@ public class dfeTest extends TestBaseQA {
     private boolean acceptNextAlert = true;
     private StringBuffer verificationErrors = new StringBuffer();
 
-//chsnnd
+//chggwrgrrgegegerg
     @Test
     public void QAReg() throws Exception {
         driver.get(baseUrl + selfURL);
