@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\jocooper\Downloads\webdriver-example-project\src\
+ test\java\dfe
+Main-Class: dfe.dfeTest
+
